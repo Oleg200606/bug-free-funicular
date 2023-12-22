@@ -26,7 +26,7 @@ axes[2].set_xlabel('Год выпуска')
 axes[2].set_ylabel('Количество')
 axes[2].legend(title='Type')
 
-# Adjust layout
+
 plt.tight_layout()
 
 plt.show()
